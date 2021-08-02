@@ -1,0 +1,11 @@
+#red {color: red}
+#blue {color:blue}
+#green {color: green}
+#big {font-size: 100px;}
+#tiny {font-size: 5px;}
+#centered {text-align: center;}
+#bold {font-weight: bold;}
+#cursive {font-family: cursive;}
+#multiple {font-weight: bold; color: orange; font-size: 45px;}
+.styledFont {color: SlateBlue; font-style: italic; font-family: fantasy;}
+#styledImage {border-style: solid; border-width: medium; border-color: magenta;}

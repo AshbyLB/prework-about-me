@@ -1,0 +1,8 @@
+There was no H1
+The photo was not enclosed 
+quotations missing from Boo Facts on JS
+Pink was not in quotations on JS 
+The hyperlink for the Wiki site was not set up correctly.  Also added the _target to open in another page 
+On the boxGrow and boxShrink, "click" was not in quotations 
+Finally found the Link to the bad script and fixed that.
+rearragned the sections to match the Grumpy Cat page 
